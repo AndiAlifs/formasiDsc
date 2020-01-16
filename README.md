@@ -2,6 +2,6 @@
 
 FORMASI -> Forum Mahasiswa Indonesia
 
-Anggota Kelompok 
-1. Andi Alifsyah Dyasham
-2. Nofath Zukhrufi Haideal
+## Anggota Kelompok <br>
+1. <a href = "https://github.com/AndyAlyf">Andi Alifsyah Dyasham</a> <br>
+2. <a href = "https://github.com/NofathZ">Nofath Zukhrufi Haideal</a>
