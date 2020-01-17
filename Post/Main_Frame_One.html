@@ -2,17 +2,28 @@
     <head>
         <title></title>
     </head>
-    <body bgcolor="#83a1a6">
-        <table border="0">
+    <body bgcolor="#86AC41">
+        <table border=0>
             <tr>
-                <td width="10%" class="tulisan" bgcolor="#83a1a6">formasi</td>
-                <td width="60%" class="teks1" bgcolor="#83a1a6">Nofath Zukhrufi Haideal</td>
-                <td width="30%" class="teks" bgcolor="#83a1a6"><input class="pencarian" type="search" placeholder="Search..."></td>
-                <td class="teks" bgcolor="#83a1a6"><img src="../Vector/Notification.png" width="40"></td>
-                <td class="teks" bgcolor="#83a1a6"><img src="../Vector/Profile.png" width="50"></td>
+                <td width="10%" class="tulisan" bgcolor="#86AC41">formasi</td>
+                <td width="40%" class="teks1" bgcolor="#86AC41">Joko Irawan</td>
+                <td width="20%"><img src="../Vector/PP.png" width="25%"></td>
+                <td width="30%" class="teks" bgcolor="#86AC41"><input class="pencarian" type="search" placeholder="Search..."></td>
+                <td class="teks" bgcolor="#86AC41"><a type="button" onclick="tracknotif()"><img src="../Vector/Notification.png" width="40"></a></td>
+                <td class="teks" bgcolor="#86AC41"><a type="button" onclick="trackprofile()"><img src="../Vector/Profile.png" width="50"></a></td>
             </tr>
         </table>
     </body>
+    <script>
+        function tracknotif (url){
+            var ganti = window.open("../Notif/HTML_01.html","_blank");
+            ganti.focus();
+        }
+        function trackprofile (url){
+            var ganti = window.open("../Profile/HTML_01.html","_blank");
+            ganti.focus();
+        }
+    </script>
     <style>
         .pencarian{
             float: left;
