@@ -6,5 +6,5 @@ FORMASI adalah sebuah media sosial yang dibuat untuk seluruh mahasiswa Indonesia
 FORMASI dapat bermanfaat untuk memudahkan beberapa masalah yang dialami oleh sebagian besar Mahasiswa Indonesia
 
 ## Anggota Kelompok <br>
-1. <a href = "https://github.com/AndyAlyf">Andi Alifsyah Dyasham</a> <br>
-2. <a href = "https://github.com/NofathZ">Nofath Zukhrufi Haideal</a>
+1. Andi Alifsyah Dyasham -> <a href = "https://github.com/AndyAlyf">AndyAlyf</a> <br>
+2. Nofath Zukhrufi Haideal -> <a href = "https://github.com/NofathZ">NofathZ</a>
